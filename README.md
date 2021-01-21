@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hi there, my name is Marek - aka 1vomarek1
 
-<!--
-**marekvospel/marekvospel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer and a Programmer.
+- 🇨🇿 I live in Czech Republic
+- 📘 I am studying cybersecurity on high school
+- 🖥️ I use linux as my daily OS and am programming in Java, JavaScript, TypeScript, PHP (HTML and CSS) and C#
+- 🌍 I am able to secure linux servers & devices with 2fa, ssh certificates etc.
+- 🐧 I use Arch btw
 
-Here are some ideas to get you started:
+  
+## 🔧 My github stats
+<img align="center" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=marekvospel&show_icons=true&hide_border=true&theme=dracula" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://vospel.cz
