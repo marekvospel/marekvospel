@@ -11,4 +11,6 @@
 ## 🔧 My github stats
 <img align="center" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=marekvospel&show_icons=true&hide_border=true&theme=dracula" />
 
+<img align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marekvospel&layout=compact&theme=dracula&show_icons=true&hide_border=true" />
+
 [website]: https://vospel.cz
