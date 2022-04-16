@@ -1,7 +1,7 @@
 ### 👋 Hi there, my name is Marek - aka 1vomarek1
 
 ## About me
-- I'm 16 years old cybersecurity student from Czech Republic.
+- I'm 17 years old cybersecurity student from Czech Republic.
 - I know Svelte & Vue frameworks, and I'm learning react
 - I haven't used CSS frameworks a lot, but I have used Bootstrap in the past and currently I'm starting to use TailwindCSS
 - I use Archlinux with i3-gaps wm and I'm planning to switch to sway in the future
